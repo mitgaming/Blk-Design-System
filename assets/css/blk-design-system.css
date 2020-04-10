@@ -109,6 +109,21 @@ body {
   background-color: #171941;
 }
 
+body::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+  background-color: #281f52;
+}
+
+body::-webkit-scrollbar {
+  width: 5px;
+  background-color: #281f52;
+}
+
+body::-webkit-scrollbar-thumb {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .1);
+  background-color: #255fd2;
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
