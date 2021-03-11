@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T04:35:11.989Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/93.0.148 Chrome/87.0.4280.148 Safari/537.36" etag="tls_6y6JSUz7e1fnGYSq" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T05:01:33.604Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) coc_coc_browser/93.0.148 Chrome/87.0.4280.148 Safari/537.36" etag="J5NJmix7ISo8SmAyE3ga" version="14.4.6" type="github">
   <diagram id="kHLsbcLHMgKkTKzZlc_j" name="Trang-1">
     <mxGraphModel dx="1280" dy="699" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="RnlfCP2qKSnffvko98fF-19" value="level" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="RnlfCP2qKSnffvko98fF-7">
           <mxGeometry y="104" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="RnlfCP2qKSnffvko98fF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF3333;" edge="1" parent="RnlfCP2qKSnffvko98fF-7" source="RnlfCP2qKSnffvko98fF-7" target="RnlfCP2qKSnffvko98fF-9">
+        <mxCell id="RnlfCP2qKSnffvko98fF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF8000;" edge="1" parent="RnlfCP2qKSnffvko98fF-7" source="RnlfCP2qKSnffvko98fF-7" target="RnlfCP2qKSnffvko98fF-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="70" y="-40" />
@@ -44,8 +44,8 @@
             <mxPoint x="70" y="-23" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="70" y="-41" />
-              <mxPoint x="160" y="-41" />
-              <mxPoint x="160" y="143" />
+              <mxPoint x="171" y="-41" />
+              <mxPoint x="171" y="143" />
             </Array>
           </mxGeometry>
         </mxCell>
